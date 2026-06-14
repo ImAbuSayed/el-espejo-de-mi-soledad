@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-espejo-de-mi-soledad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for El espejo de mi soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-espejo-de-mi-soledad/) |
+| **Get License** | [Obtain a Music License for El espejo de mi soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-espejo-de-mi-soledad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y se para el tiempo, baby, no hay salida
+> Un reflejo de pasión que me está cambiando la vida
+> Bailando en la oscuridad, curando cada herida
+> You know I want you, mami, mi alma encendida
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
