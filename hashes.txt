@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El espejo de mi soledad
+
+This log tracks the cryptographic history and versioning for the song **El espejo de mi soledad** (el-espejo-de-mi-soledad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:54:59.365702 | `v1` | `0bd32ded159b53ab1847804bea44c06326e563f490a08e8dc2c820c2e80bc352` | `f26c6b23553fa01c7989f30a4e3a2288bcff459277be2d63f21ce78bde47d0d2` | `2026-06-14_el-espejo-de-mi-soledad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
